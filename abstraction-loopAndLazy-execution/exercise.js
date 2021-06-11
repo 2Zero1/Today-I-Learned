@@ -4,7 +4,7 @@
 //   next() {
 //     let v;
 //     while(v = this.data.shift()) {
-//       switch(true) {
+//       switch(true) { 
 //         case Array.isArray(v):
 //           this.data.unshift(...v);
 //           break;
